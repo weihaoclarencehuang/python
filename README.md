@@ -1,2 +1,3 @@
 # python
-python snippet
+This is my first repository.
+Hopefully I can use Github to better manage my code.
